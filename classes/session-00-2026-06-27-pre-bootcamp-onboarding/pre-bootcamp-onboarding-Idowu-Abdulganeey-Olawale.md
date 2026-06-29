@@ -14,7 +14,7 @@
 
 ### What I did
 
-- Created or accessed my GitHub account.
+- Accessed my GitHub account.
 - Learned how to fork the bootcamp repository.
 - Practiced navigating GitHub repositories and understanding the assignment submission workflow.
 - Learned the process of uploading files, committing changes, and creating a pull request.
