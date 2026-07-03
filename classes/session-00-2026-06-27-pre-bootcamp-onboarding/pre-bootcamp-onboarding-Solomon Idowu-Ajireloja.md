@@ -1,61 +1,49 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — [SOLOMON IDOWU, AJIRELOJA]
 
 ## Key Concepts I Learned
-
 <!-- Write the main ideas covered in today's session -->
-
--
--
--
+- Overview of Class Management on GitHub
+- Creating and Setting Up a GitHub Repository
+- Collaborating with Others Using Pull Requests and Branches
 
 ---
 
 ## Lab / Hands-On Work
-
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+- Created my personal repository for the class assignment
+- Initialized the repository with a README file
+- Cloned the repository to my local machine
+- upload my edited file from my local machine with my name and reupload
+- Made my first commit and pushed changes to GitHub 
 
 ### What happened / Result
-
+- The repository was successfully created and updated on GitHub
+- My initial setup was complete without issues
 
 ### Challenges I faced
-
+- Since I was already familiar with GitHub, I didn't encounter significant challenges
+- However, I refreshed my understanding of some commands like `git clone`, `git commit`, and `git push`
 
 ---
 
-## My Takeaways
-
+## My Key Takeaways
 <!-- What was most valuable to you personally from this session? -->
-
+- Reinforced the importance of proper version control to track changes effectively
+- Gained clarity on basic Git workflows and how to collaborate seamlessly
+- Recognized the significance of branching strategies to manage collaboration and avoid conflicts
+- Noted the importance of README files for project documentation
 
 ---
 
 ## Questions I Still Have
-
 <!-- Anything you want to follow up on or ask the mentor -->
-
--
--
-
----
-
-## Resources I Found Useful
-
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
+- How can I effectively resolve merge conflicts when collaborating with others?
+- Are there advanced Git commands or workflows I should learn for larger projects?
+- How do I manage access permissions for different collaborators?
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Solomon Idowu, Ajireloja · [Your GitHub: Jirelking]*
+
