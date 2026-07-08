@@ -1,11 +1,10 @@
-# My Notes — [Oluharaotu Alexander Onyekachi 
+# My Notes — [Type your name ]
 
 
 ---
 
 ## Key Concepts I Learned
 
-create my first GitHub account 
 
 -
 -
@@ -15,22 +14,19 @@ create my first GitHub account
 
 ## Lab / Hands-On Work
 
-created my first GitHub account 
-I fork the repo to enable me add my work
-downloaded the file to onboard 
+
 
 ### What I did
-assignment submission 
+
 
 
 
 ### What happened / Result
-successful work submission 
+
 
 
 
 ### Challenges I faced
-difficulty in navigating around but persistence lead me through.
 
 
 ---
@@ -38,7 +34,6 @@ difficulty in navigating around but persistence lead me through.
 ## My Takeaways
 
 
-kept trying until I got it right
 
 
 ---
@@ -60,4 +55,4 @@ kept trying until I got it right
 
 ---
 
-*Submitted by: [Oluharaotu Alexander] · [stalexoluh]*
+*Submitted by: [Name] · [Profile]*
