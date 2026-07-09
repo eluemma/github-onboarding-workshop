@@ -13,7 +13,7 @@
 
 ## Lab / Hands-On Work
 
-I followed the hands-on demo of instructor on how PIM is configured. 
+I followed the hands-on demo of the instructor on how PIM is configured. 
 
 
 ### What I did
@@ -31,7 +31,7 @@ The practice account is yet to be provided
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-- PIM solution addsanother layer of security to protect resources and access. Good planning is key when implementing PIM to avoid lossing access to your accounts. All break-glass accounts must be excluded during when configuring PIM
+- PIM solution addsanother layer of security to protect resources and access. Good planning is key when implementing PIM to avoid lossing access to your accounts. All break-glass accounts must be excluded during when configuring PIM.
 
 - An API key is a simple secret string that proves you are allowed to call an API. It can be passed as a Bearer token, a query string parameter, or a custom HTTP header.
 
