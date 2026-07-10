@@ -1,14 +1,13 @@
 # My Notes — [Edache Ada Precious]
 
-
 ---
 
 ## Key Concepts I Learned
 
 
 - I learned that GitHub is a platform for hosting and managing code using Git
-- I learned how reo stores projects
-- How commits ssve cahnges
+- I learned how to stores projects
+- How commits save cahnges
 - How branches allows separate development 
 -
 -
@@ -16,22 +15,17 @@
 ---
 
 ## Lab / Hands-On Work
-I created a Github accouyand setw up my profile 
-Creaed a repo 
-made commits eith meaningful commit messages 
+I created a Github account and set up my profile 
+Created a repo 
+Made commits with meaningful commit messages 
 Pushed local changes to github 
 
 
 ### What I did
-During the GitHub practical session, i created a GitHub account and setup my profile 
-i created a new repository added a readme file
-i oracticed making clear commit medsages 
-
-
+I created account on github using my goggle account rather than filling the form directly.I also created a repository for private use only.
 
 ### What happened / Result
-It worked but because I'm using and android phone it was challenging 
-
+The account is activated and I submitted my assignment.I also created a repository on the page
 
 
 ### Challenges I faced
@@ -43,9 +37,9 @@ i had it done, saved and even verified but it still wasn't on the list
 ## My Takeaways
 
 
-Through they training i now understand how to create and manage repositories, track changes with commits.
-The hands on work increased my confidence in using GitHub and i gained practical skills 
-i now understand collaboration when working on a project 
+Through they training I now understand how to create and manage repositories, track changes with commits.
+The hands on work increased my confidence in using GitHub and I gained practical skills 
+I now understand collaboration when working on a project 
 
 ---
 
@@ -53,7 +47,7 @@ i now understand collaboration when working on a project
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+-What is the application of github to Ai and cloud security?
 -
 
 ---
@@ -61,9 +55,9 @@ i now understand collaboration when working on a project
 ## Resources I Found Useful
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
+BOOTCAMP NAIJA AI and CLOUD SECURITY GITHUB.
 -
-
+https://github.com/Microsoft-Naija-Security-Usergroup/github-onboarding-workshop/edit/main/classes/session-00-2026-06-27-pre-bootcamp-onboarding/pre-bootcamp-onboarding-yourname-template.md
 ---
 
-*Submitted by: [Name] · [Profile]*
+*Submitted by: [TIMOTHY ABRAHAM ] · [TIMOTHY ABRAHAM ]*

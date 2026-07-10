@@ -1,4 +1,4 @@
-# My Notes — victory Ezenwa 
+# My Notes — Racheal Ezenwa Oyinyechi 
 
 ---
 
@@ -48,4 +48,4 @@ The class was very useful, I practiced after  the class was on
 
 ---
 
-*Submitted by: victory Ezenwa chinonye ¤
+*Submitted by: Racheal Ezenwa Oyinyechi 
