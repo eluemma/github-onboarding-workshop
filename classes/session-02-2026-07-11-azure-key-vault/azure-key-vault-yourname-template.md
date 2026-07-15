@@ -1,18 +1,33 @@
 # My Notes — Okeke Marycynthia
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
-
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
+Azure Key Vaults & Defense-in-Depth
+Secure Secret Management: Storing sensitive credentials, connection strings, and keys in Azure Key Vault is a fundamental requirement for defense-in-depth, preventing single-point-of-compromise scenarios where one exposed secret escalates into a full workload breach.
 
+Proactive Security: Implementing automated key rotation, centralized secret versioning, and anomaly monitoring via Microsoft Defender for Cloud significantly reduces the attack surface.
+Certificate Integration: Integrated Key Vault certificates can be provisioned through partnered Certificate Authorities (specifically DigiCert and GlobalSign), which requires maintaining external accounts alongside Microsoft resources.
+
+Authorization Methods: Azure RBAC vs. Legacy Access Policies
+Azure RBAC (Recommended): Utilizes a unified, modern authorization model across the Azure ecosystem. RBAC role assignments are highly granular, fully auditable, restricted to specific scopes, and integrate seamlessly with Azure Managed Identities.
+Legacy Access Policies: Uses a segregated, vault-specific permission model. This approach is highly prone to configuration drift over time and lack of uniformity, though it remains visible in legacy environments.
+
+Core Key Vault Assets
+Key Vault manages three distinct secure asset types:
+1. Secrets: Plaintext configuration strings, database connection strings, passwords, and API keys.
+2. Keys: Cryptographic keys utilized directly for encryption, decryption, and digital signing operations.
+3. Certificates: X.509 certificates alongside automated lifecycle management and renewal tools.
+
+Managed Identities in Azure
+Azure utilizes managed identities to eliminate the need for hardcoded credentials, categorized into two types:
+1. System-Assigned: Automatically created and tightly coupled to a single, specific Azure resource. It is deleted automatically when the resource is destroyed.
+2. User-Assigned: Created as a standalone, reusable Azure resource that can be assigned to multiple independent services simultaneously.
+
+Data Protection & Network Security Controls
+To safeguard Key Vault data from both unauthorized exfiltration and accidental deletion, three primary layers of defense are enforced:
+1. Firewalls & Network Access Control: Restricting public endpoints to specific virtual networks (VNets) or utilizing private endpoints to isolate traffic.
+2. Soft-Delete & Purge Protection: Safeguarding against accidental or malicious deletions. Soft-delete retains deleted vaults for a specified window, while purge protection prevents permanent deletion of those vaults during that period.
+3. Operational Guardrails: Applying administrative locks and governance policies to prevent unauthorized configuration changes.
 -
 -
 -
