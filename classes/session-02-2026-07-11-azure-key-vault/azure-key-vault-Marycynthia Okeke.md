@@ -1,4 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — Marycynthia Okeke
 
 ## Key Concepts I Learned
 
@@ -15,17 +15,17 @@ One important takeaway was understanding how the exposure of a single secret can
 
 For certificate management, Azure Key Vault can integrate with DigiCert and GlobalSign for certificate issuance and lifecycle management. However, an organization must maintain a separate account with either provider, as these services are not automatically included with Microsoft Azure.
 
-Azure Key Vault Authorization Models I learned that Azure Key Vault supports two authorization planes:
+Azure Key Vault Authorization Models: I learned that Azure Key Vault supports two authorization planes:
 
 Control Plane – Used to manage the Key Vault resource itself (creation, configuration, deletion, and access management).
 Data Plane – Used to access the data stored inside the vault, such as secrets, keys, and certificates.
-Azure RBAC (Role-Based Access Control) Azure RBAC is the modern and recommended authorization model for Azure Key Vault because it:
+Azure RBAC (Role-Based Access Control): Azure RBAC is the modern and recommended authorization model for Azure Key Vault because it:
 
 Provides a unified access management model across Azure resources.
 Supports scoped and auditable role assignments.
 Integrates seamlessly with managed identities.
 Simplifies access management compared to older permission models.
-Legacy Access Policies I also learned about Legacy Access Policies, which:
+Legacy Access Policies: I also learned about Legacy Access Policies, which:
 
 Use a separate permission model for each Key Vault.
 Can introduce policy drift over time due to inconsistent configurations.
