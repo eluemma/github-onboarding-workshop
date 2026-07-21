@@ -1,11 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Elu Uchenna Emmanuel
 
 ---
 
@@ -56,7 +49,6 @@
 
 - How can one remediate a resource to ensure the policy is applied
 
-
 ---
 
 ## Resources I Found Useful
@@ -64,7 +56,7 @@
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
 - https://www.youtube.com/watch?v=oN8ZdKTq-p0
-- 
+- https://learn.microsoft.com/en-us/training/paths/security-governance-compliance/
 
 ---
 
